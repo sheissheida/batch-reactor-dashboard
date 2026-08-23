@@ -2,7 +2,7 @@
 
 hey. 
 
-honestly this is just a personal practice project and nothing really special. i mainly built it to get the hang of python and learn how the **Reflex** web framework works behind the scenes (trying to avoid that copy-paste "vibe coding" habit). i also just wanted a safe place to keep my code!
+honestly this is just a personal practice project and nothing really special. i mainly built it to get the hang of python and learn how the **Reflex** web framework works behind the scenes (trying to avoid that copy-paste "vibe coding" thing). i also just wanted a safe place to keep my code.
 
 ## What it does
 it's a simple interactive web dashboard that simulates the kinetics of a basic batch reactor (where Reactant A turns into Product B). 
